@@ -1,0 +1,4 @@
+,relu,tanh
+xavier_normal,0.8402,0.7618
+xavier_uniform,0.8474,0.7519
+kaiming_normal,0.8266,0.7462
